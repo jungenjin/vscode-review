@@ -1,1 +1,2 @@
-go home
+git go home
+status
